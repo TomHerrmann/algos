@@ -31,4 +31,6 @@ const sqrt = (x) => {
   }
 };
 
-console.log(sqrt(0));
+console.log(sqrt(4)); // => 2
+console.log(sqrt(8)); // => 2
+console.log(sqrt(0)); // => 2
